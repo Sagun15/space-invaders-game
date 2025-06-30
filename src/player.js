@@ -2,7 +2,7 @@ export class Player {
   constructor(x, y) {
     this.x = x;
     this.y = y;
-    this.width = 80;
+    this.width = 160;
     this.height = 20;
     this.speed = 6;
     this.dx = 0;
