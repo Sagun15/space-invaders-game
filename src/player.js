@@ -4,7 +4,7 @@ export class Player {
     this.y = y;
     this.width = 40;
     this.height = 20;
-    this.speed = 5;
+    this.speed = 6;
     this.dx = 0;
   }
 
